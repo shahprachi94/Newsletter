@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["authoring-context"],{431:function(n,o,t){var e,i;e=[t(0),t(1),t(89)],void 0===(i=function(n,o,t){return new(t.extend({_startingCreateDoc:function(){this.loadDocumentPromise=null}}))}.apply(o,e))||(n.exports=i)}}]);
+//# sourceMappingURL=authoring-context-74962b25.js.map
